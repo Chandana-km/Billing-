@@ -1,0 +1,38 @@
+#d{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    text-align: center;
+    backdrop-filter: blur(10px);
+    margin-top: 50px;
+}
+body{
+    background-image: url(./coffe3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#tc{
+    font-size: 20px;
+}
+
+#cc{
+    font-size: 20px;
+}
+
+#hc{
+    font-size: 20px;
+}
+
+#mc{
+    font-size: 20px;
+}
+#total{
+    font-size: 20px;
+}
+#add{
+    border: none;
+}
+
+#bill{
+    border: none;
+}
